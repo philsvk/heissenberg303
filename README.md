@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning React and Spring
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me: w.sivakorn195@gmail.com
-- :gift: **My site projects**:joystick: Application: Upcoming  
+- :gift: **My site projects**  
+                         :joystick: Application: Upcoming  
                          :bar_chart: Data Scinece: https://www.kaggle.com/code/fusepyt/chips-stock-analysis
 
 <!---
