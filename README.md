@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heissenberg303
-- 👀 I’m interested in Backend Developing and Data Science.
+- 👀 I’m interested in Application Development and Data Science.
 - 🌱 I’m currently learning React and Spring
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me: w.sivakorn195@gmail.com
