@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me: w.sivakorn195@gmail.com
 - :gift: **My site projects**  
-                         :joystick: Application: Upcoming  
+                         :joystick: Application: More informaion coming  soon
                                                  Employee Application (CRUDE) - :medal_military: Java, Spring Boot, React.JS<br/>
                                                  Finance Stock Trade API - :medal_military: Python, Flask<br/>
                          :bar_chart: Data Scinece: :medal_military: Python[Pandas,Numpy,Seaborn,Model]<br/>
