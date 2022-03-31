@@ -7,7 +7,7 @@
                          :joystick: Application: More informaion coming  soon
                                                  Employee Application (CRUDE) - :medal_military: Java, Spring Boot, React.JS<br/>
                                                  Finance Stock Trade API - :medal_military: Python, Flask<br/>
-                         :bar_chart: Data Scinece: :medal_military: Python[Pandas,Numpy,Seaborn,Model]<br/>
+                         :bar_chart: Data Scinece: :medal_military: Python[Pandas,Numpy,Seaborn,Tensorflow]<br/>
                                                   https://www.kaggle.com/code/fusepyt/chips-stock-analysis<br/>
 
 <!---
