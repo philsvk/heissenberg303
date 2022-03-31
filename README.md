@@ -5,10 +5,10 @@
 - 📫 How to reach me: w.sivakorn195@gmail.com
 - :gift: **My site projects**  
                          :joystick: Application: Upcoming  
-                                               Employee Application (CRUDE) - :medal_military: Java, Spring Boot, React.JS
-                                               Finance Stock Trade API - :medal_military: Python, Flask
-                         :bar_chart: Data Scinece: :medal_military: Python[Pandas,Numpy,Seaborn,Model]
-                                                https://www.kaggle.com/code/fusepyt/chips-stock-analysis
+                                                 Employee Application (CRUDE) - :medal_military: Java, Spring Boot, React.JS<br/>
+                                                 Finance Stock Trade API - :medal_military: Python, Flask<br/>
+                         :bar_chart: Data Scinece: :medal_military: Python[Pandas,Numpy,Seaborn,Model]<br/>
+                                                  https://www.kaggle.com/code/fusepyt/chips-stock-analysis<br/>
 
 <!---
 heissenberg303/heissenberg303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
