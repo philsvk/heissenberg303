@@ -3,11 +3,7 @@
 - 🌱 I’m currently learning ASP.NET and REACT
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me: w.sivakorn195@gmail.com
-- :gift: **My site projects**  
-                         :joystick: Application:   Employee Application (CRUD) - :medal_military: Java, Spring Boot, React.JS<br/>
-                                                   Finance Stock Trade API - :medal_military: Python, Flask<br/>
-                         :bar_chart: Data Scinece: :medal_military: Python[Pandas,Numpy,Seaborn,Tensorflow]<br/>
-                                                  https://www.kaggle.com/code/fusepyt/chips-stock-analysis<br/>
+
 
 <!---
 heissenberg303/heissenberg303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
