@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heissenberg303
 - 👀 I’m interested in Application Development and Data Science.
-- 🌱 I’m currently learning ASP.NET and REACT
+- 🌱 I’m currently learning ASP.NET, Spring, React, ...
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me: w.sivakorn195@gmail.com
 
