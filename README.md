@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me: w.sivakorn195@gmail.com
 - :gift: **My site projects**  
-                         :joystick: Application: More informaion coming  soon
-                                                 Employee Application (CRUD) - :medal_military: Java, Spring Boot, React.JS<br/>
-                                                 Finance Stock Trade API - :medal_military: Python, Flask<br/>
+                         :joystick: Application:   Employee Application (CRUD) - :medal_military: Java, Spring Boot, React.JS<br/>
+                                                   Finance Stock Trade API - :medal_military: Python, Flask<br/>
                          :bar_chart: Data Scinece: :medal_military: Python[Pandas,Numpy,Seaborn,Tensorflow]<br/>
                                                   https://www.kaggle.com/code/fusepyt/chips-stock-analysis<br/>
 
