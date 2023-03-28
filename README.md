@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heissenberg303
 >
-- 🌱 I’m currently working on Golang, ASP.NET, Spring, NodeJs
+- 🌱 I’m currently working on AWS Cloud and Microservices using Golang, Node.js, Spring.
 - 📫 How to reach me: w.sivakorn195@gmail.com
 
 <!---
