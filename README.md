@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heissenberg303
+- 👋 Hi, I’m Fuse
 >
 - 🌱 I’m currently working on AWS Cloud and Microservices using Golang, Node.js and React.
 - 🔎 I'm interested in Cloud Technology, AI, and Full Stack Developing.
